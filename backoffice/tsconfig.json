@@ -13,7 +13,10 @@
       "@constants/*": ["constants/*"],
       "@catalogModels/*": ["modules/catalog/models/*"],
       "@catalogServices/*": ["modules/catalog/services/*"],
-      "@catalogComponents/*": ["modules/catalog/components/*"]
+      "@catalogComponents/*": ["modules/catalog/components/*"],
+      "@inventoryServices/*": ["modules/inventory/services/*"],
+      "@inventoryComponents/*": ["modules/inventory/components/*"],
+      "@inventoryModels/*": ["modules/inventory/models/*"]
     },
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
